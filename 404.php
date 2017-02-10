@@ -36,6 +36,7 @@
 	</head>
     <body class="cnt-home">
 <?php include 'header.php' ?>
+<?php include 'header.php' ?>
 <div class="body-content outer-top-bd">
 	<div class="container">
 		<div class="x-page inner-bottom-sm">
